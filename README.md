@@ -26,4 +26,4 @@ python undelegate.py
 
 ## 🛡️ Disclaimer
 
-For educational and emergency recovery purposes only. Use at your own risk. Never commit private keys to GitHub.
+For educational and emergency recovery purposes only. Use at your own risk. Never commit private keys to GitHub
